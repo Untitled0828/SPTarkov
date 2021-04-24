@@ -8,5 +8,11 @@
     "Ver": "1.0.0.2",
     "Url": "",
 	"File": "UntitledItemTool-"
+  },
+  "Updater": {
+    "Ver": "1.0.0.0",
+    "Url": "https://www.dropbox.com/s/0qtc1yp03kxls77/UntitledUpdater.exe?dl=1",
+	"Hash": "",
+	"File": "UntitledUpdater"
   }
 }
